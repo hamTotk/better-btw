@@ -1,0 +1,12 @@
+{
+  "name": "better-btw",
+  "owner": { "name": "hamTotk" },
+  "description": "better-btw: a /btw you can keep asking follow-ups in",
+  "plugins": [
+    {
+      "name": "better-btw",
+      "source": "./",
+      "description": "Replaces /btw with a side-question pane you can keep asking follow-ups in"
+    }
+  ]
+}

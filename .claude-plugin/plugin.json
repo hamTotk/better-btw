@@ -1,0 +1,11 @@
+{
+  "name": "better-btw",
+  "version": "1.0.0",
+  "description": "Replaces /btw with a side-question pane you can keep asking follow-ups in",
+  "author": { "name": "hamTotk" },
+  "homepage": "https://github.com/hamTotk/better-btw",
+  "repository": "https://github.com/hamTotk/better-btw",
+  "license": "MIT",
+  "keywords": ["btw", "side-question", "mod"],
+  "types": "./types/index.d.ts"
+}
